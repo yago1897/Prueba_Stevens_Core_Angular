@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x8WsSpuigM+cN2/L7oo2ix2HFWkTpWAgsH5mLaL7EnDIqTz74FXOxvUjwehB1WPvOXXh9QG1Vf10S4tOFPWaxw==",
+  "dgSpecHash": "ixg4o/J1v2gYYw+LqENej6ijsHzr720WZKDBjvtoOpt0zNlO4u6KB6dV3UrJTQTlQZ8YVWp2XatqbzkDLeJPxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stevens\\source\\repos\\Prueba_Stevens_Core_Angular\\Services.API\\Services.API.csproj",
+  "projectFilePath": "C:\\Users\\Stevens\\Music\\Prueba_Stevens_Core_Angular\\Services.API\\Services.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stevens\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Stevens\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

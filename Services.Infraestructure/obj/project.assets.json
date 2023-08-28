@@ -5903,11 +5903,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stevens\\source\\repos\\Prueba_Stevens_Core_Angular\\Services.Infraestructure\\Services.Infraestructure.csproj",
+      "projectUniqueName": "C:\\Users\\Stevens\\Music\\Prueba_Stevens_Core_Angular\\Services.Infraestructure\\Services.Infraestructure.csproj",
       "projectName": "Services.Infraestructure",
-      "projectPath": "C:\\Users\\Stevens\\source\\repos\\Prueba_Stevens_Core_Angular\\Services.Infraestructure\\Services.Infraestructure.csproj",
+      "projectPath": "C:\\Users\\Stevens\\Music\\Prueba_Stevens_Core_Angular\\Services.Infraestructure\\Services.Infraestructure.csproj",
       "packagesPath": "C:\\Users\\Stevens\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stevens\\Source\\Repos\\Prueba_Stevens_Core_Angular\\Services.Infraestructure\\obj\\",
+      "outputPath": "C:\\Users\\Stevens\\Music\\Prueba_Stevens_Core_Angular\\Services.Infraestructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5928,8 +5928,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Stevens\\source\\repos\\Prueba_Stevens_Core_Angular\\Services.Core\\Services.Core.csproj": {
-              "projectPath": "C:\\Users\\Stevens\\source\\repos\\Prueba_Stevens_Core_Angular\\Services.Core\\Services.Core.csproj"
+            "C:\\Users\\Stevens\\Music\\Prueba_Stevens_Core_Angular\\Services.Core\\Services.Core.csproj": {
+              "projectPath": "C:\\Users\\Stevens\\Music\\Prueba_Stevens_Core_Angular\\Services.Core\\Services.Core.csproj"
             }
           }
         }
